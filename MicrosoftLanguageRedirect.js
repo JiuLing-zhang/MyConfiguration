@@ -4,6 +4,7 @@
 // @version      1.1
 // @description  如果打开的连接是非中文，则自动跳转到中文版
 // @author       九零
+// @license      MIT
 // @match        https://*.microsoft.com/*
 // @exclude      https://docs.microsoft.com/*/answers/questions/*
 // @grant        none
