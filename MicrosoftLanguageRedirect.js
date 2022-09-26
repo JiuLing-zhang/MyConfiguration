@@ -7,6 +7,7 @@
 // @license      MIT
 // @match        https://*.microsoft.com/*
 // @exclude      https://docs.microsoft.com/*/answers/*
+// @exclude      https://learn.microsoft.com/*/answers/*
 // @grant        none
 // ==/UserScript==
 
