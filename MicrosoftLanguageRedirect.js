@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         微软URL重定向工具
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  如果打开的连接是非中文，则自动跳转到中文版
 // @author       九零
 // @license      MIT
